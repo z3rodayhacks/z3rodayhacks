@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reverse engineering**
 - 💬 Ask me about **malware analysis, reverse engineering, network pentesting**
-- 📫 How to reach me **rkjashwanth1906@gmail.com**
+- 📫 How to reach me **rkjashwanthraghav01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
